@@ -1,0 +1,9 @@
+F:\DOT NET\windowsformEx\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\DOT NET\windowsformEx\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\DOT NET\windowsformEx\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\DOT NET\windowsformEx\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\DOT NET\windowsformEx\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\DOT NET\windowsformEx\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\DOT NET\windowsformEx\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\DOT NET\windowsformEx\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\DOT NET\windowsformEx\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
